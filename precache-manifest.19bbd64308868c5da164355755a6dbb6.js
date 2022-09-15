@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "54582cfc9158de1185ca",
+    "revision": "93a97eb4d89f0c682156",
     "url": "/lakes/static/css/main.d7d40efc.chunk.css"
   },
   {
-    "revision": "54582cfc9158de1185ca",
-    "url": "/lakes/static/js/main.01b03262.chunk.js"
+    "revision": "93a97eb4d89f0c682156",
+    "url": "/lakes/static/js/main.90f4cb81.chunk.js"
   },
   {
     "revision": "44c84897775ec3259a23",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/lakes/static/media/S4CP.02bed7fd.png"
   },
   {
-    "revision": "7e002f7e533c7ab010fad99b32ee1ed9",
+    "revision": "43b43a8eed47ca6d73aedc1431f8c8ec",
     "url": "/lakes/index.html"
   }
 ];
